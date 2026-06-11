@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^29.1.1",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
