@@ -5,7 +5,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -15,7 +17,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -25,11 +29,15 @@
     "flowers": [
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -39,11 +47,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -53,7 +65,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -63,7 +77,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -73,11 +89,15 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -87,7 +107,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -97,7 +119,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -107,7 +131,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -117,15 +143,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "Arroyo & Golden Lupine",
-        "url": "https://wildfloweryard.com/plant-profile/lupine/"
+        "url": "https://wildfloweryard.com/plant-profile/lupine/",
+        "imageId": "4699-white-yellow-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\4699-white-yellow-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -135,7 +167,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -145,7 +179,9 @@
     "flowers": [
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -155,7 +191,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -165,15 +203,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -183,11 +227,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Bachelor Buttons",
-        "url": "https://wildfloweryard.com/plant-profile/bachelor-buttons/"
+        "url": "https://wildfloweryard.com/plant-profile/bachelor-buttons/",
+        "imageId": "5324-blue-bachelor-button-bee-sq-72x72",
+        "imagePath": "outputs\\images\\5324-blue-bachelor-button-bee-sq-72x72.jpg"
       }
     ]
   },
@@ -197,7 +245,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -207,7 +257,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -217,7 +269,9 @@
     "flowers": [
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -227,11 +281,15 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -241,15 +299,21 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -259,7 +323,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -269,11 +335,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -283,7 +353,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -293,11 +365,15 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -307,7 +383,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -317,7 +395,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -327,7 +407,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -337,7 +419,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -347,11 +431,15 @@
     "flowers": [
       {
         "name": "Gladiolus",
-        "url": "https://wildfloweryard.com/plant-profile/gladiolus/"
+        "url": "https://wildfloweryard.com/plant-profile/gladiolus/",
+        "imageId": "1906-brown-gladiola-bulblet-72x72",
+        "imagePath": "outputs\\images\\1906-brown-gladiola-bulblet-72x72.jpg"
       },
       {
         "name": "Grape Hyacinth",
-        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/"
+        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/",
+        "imageId": "1661-purple-grape-hyacinth-sq-72x72",
+        "imagePath": "outputs\\images\\1661-purple-grape-hyacinth-sq-72x72.jpg"
       }
     ]
   },
@@ -361,7 +449,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -371,11 +461,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -385,7 +479,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -395,11 +491,15 @@
     "flowers": [
       {
         "name": "Plants for Butterfly Larvae, Butterflies and Hummingbirds",
-        "url": "https://wildfloweryard.com/journal/plants-for-butterfly-larvae-butterflies-and-hummingbirds/"
+        "url": "https://wildfloweryard.com/journal/plants-for-butterfly-larvae-butterflies-and-hummingbirds/",
+        "imageId": "1328-pink-butterfly-bush-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\1328-pink-butterfly-bush-butterfly-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -409,11 +509,15 @@
     "flowers": [
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -423,7 +527,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -433,7 +539,9 @@
     "flowers": [
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -443,7 +551,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -453,7 +563,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -463,11 +575,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -477,23 +593,33 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "California Poppy – Eschscholzia californica",
-        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/"
+        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/",
+        "imageId": "6105-red-yellow-ca-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\6105-red-yellow-ca-poppy-sq-72x72.jpg"
       },
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -503,7 +629,9 @@
     "flowers": [
       {
         "name": "California Poppy – Eschscholzia californica",
-        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/"
+        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/",
+        "imageId": "6105-red-yellow-ca-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\6105-red-yellow-ca-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -513,7 +641,9 @@
     "flowers": [
       {
         "name": "California Poppy – Eschscholzia californica",
-        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/"
+        "url": "https://wildfloweryard.com/plant-profile/california-poppy-eschscholzia-californica/",
+        "imageId": "6105-red-yellow-ca-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\6105-red-yellow-ca-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -523,7 +653,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -533,7 +665,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -543,7 +677,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -553,7 +689,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -563,11 +701,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -577,7 +719,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -587,7 +731,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -597,7 +743,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -607,7 +755,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -617,7 +767,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -627,7 +779,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -637,7 +791,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -647,7 +803,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -657,7 +815,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -667,7 +827,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -677,7 +839,9 @@
     "flowers": [
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       }
     ]
   },
@@ -687,7 +851,9 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -697,7 +863,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -707,7 +875,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -717,11 +887,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -731,7 +905,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -741,11 +917,15 @@
     "flowers": [
       {
         "name": "Paperwhites",
-        "url": "https://wildfloweryard.com/plant-profile/paperwhites/"
+        "url": "https://wildfloweryard.com/plant-profile/paperwhites/",
+        "imageId": "4096-green-paperwhite-containers-sq-72x72",
+        "imagePath": "outputs\\images\\4096-green-paperwhite-containers-sq-72x72.jpg"
       },
       {
         "name": "Grape Hyacinth",
-        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/"
+        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/",
+        "imageId": "1661-purple-grape-hyacinth-sq-72x72",
+        "imagePath": "outputs\\images\\1661-purple-grape-hyacinth-sq-72x72.jpg"
       }
     ]
   },
@@ -755,7 +935,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -765,7 +947,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -775,7 +959,9 @@
     "flowers": [
       {
         "name": "Bachelor Buttons",
-        "url": "https://wildfloweryard.com/plant-profile/bachelor-buttons/"
+        "url": "https://wildfloweryard.com/plant-profile/bachelor-buttons/",
+        "imageId": "5324-blue-bachelor-button-bee-sq-72x72",
+        "imagePath": "outputs\\images\\5324-blue-bachelor-button-bee-sq-72x72.jpg"
       }
     ]
   },
@@ -785,7 +971,9 @@
     "flowers": [
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -795,7 +983,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -805,7 +995,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -815,7 +1007,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -825,7 +1019,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -835,15 +1031,21 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -853,7 +1055,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -863,15 +1067,21 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -881,11 +1091,15 @@
     "flowers": [
       {
         "name": "Structural Support for Dahlias",
-        "url": "https://wildfloweryard.com/diy-projects/structural-support-for-dahlias/"
+        "url": "https://wildfloweryard.com/diy-projects/structural-support-for-dahlias/",
+        "imageId": "8354-black-dahlia-72x72",
+        "imagePath": "outputs\\images\\8354-black-dahlia-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -895,11 +1109,15 @@
     "flowers": [
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -909,7 +1127,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -919,11 +1139,15 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -933,7 +1157,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -943,15 +1169,21 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -961,7 +1193,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -971,19 +1205,27 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -993,15 +1235,21 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1011,11 +1259,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1025,7 +1277,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1035,7 +1289,9 @@
     "flowers": [
       {
         "name": "Improving Soil Drainage with a Garden Elevation",
-        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/"
+        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/",
+        "imageId": "0553-giant-squill-wine-bottles-sq-72x72",
+        "imagePath": "outputs\\images\\0553-giant-squill-wine-bottles-sq-72x72.jpg"
       }
     ]
   },
@@ -1045,7 +1301,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1055,11 +1313,15 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -1069,15 +1331,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -1087,11 +1355,15 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -1101,7 +1373,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1111,15 +1385,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -1129,7 +1409,9 @@
     "flowers": [
       {
         "name": "Paperwhites",
-        "url": "https://wildfloweryard.com/plant-profile/paperwhites/"
+        "url": "https://wildfloweryard.com/plant-profile/paperwhites/",
+        "imageId": "4096-green-paperwhite-containers-sq-72x72",
+        "imagePath": "outputs\\images\\4096-green-paperwhite-containers-sq-72x72.jpg"
       }
     ]
   },
@@ -1139,7 +1421,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1149,15 +1433,21 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1167,7 +1457,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1177,15 +1469,21 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1195,7 +1493,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1205,7 +1505,9 @@
     "flowers": [
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       }
     ]
   },
@@ -1215,7 +1517,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1225,7 +1529,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1235,7 +1541,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1245,15 +1553,21 @@
     "flowers": [
       {
         "name": "Planting Gladiolus Along a Picket Fence",
-        "url": "https://wildfloweryard.com/journal/planting-gladiolus-along-a-picket-fence/"
+        "url": "https://wildfloweryard.com/journal/planting-gladiolus-along-a-picket-fence/",
+        "imageId": "9998-orange-yellow-gladiola-72x72",
+        "imagePath": "outputs\\images\\9998-orange-yellow-gladiola-72x72.jpg"
       },
       {
         "name": "Gladiolus",
-        "url": "https://wildfloweryard.com/plant-profile/gladiolus/"
+        "url": "https://wildfloweryard.com/plant-profile/gladiolus/",
+        "imageId": "1906-brown-gladiola-bulblet-72x72",
+        "imagePath": "outputs\\images\\1906-brown-gladiola-bulblet-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1263,7 +1577,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1273,7 +1589,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -1283,7 +1601,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1293,7 +1613,9 @@
     "flowers": [
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -1303,15 +1625,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "Arroyo & Golden Lupine",
-        "url": "https://wildfloweryard.com/plant-profile/lupine/"
+        "url": "https://wildfloweryard.com/plant-profile/lupine/",
+        "imageId": "4699-white-yellow-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\4699-white-yellow-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -1321,19 +1649,27 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1343,7 +1679,9 @@
     "flowers": [
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1353,7 +1691,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1363,7 +1703,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -1373,11 +1715,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1387,7 +1733,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1397,7 +1745,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1407,7 +1757,9 @@
     "flowers": [
       {
         "name": "Plants for Butterfly Larvae, Butterflies and Hummingbirds",
-        "url": "https://wildfloweryard.com/journal/plants-for-butterfly-larvae-butterflies-and-hummingbirds/"
+        "url": "https://wildfloweryard.com/journal/plants-for-butterfly-larvae-butterflies-and-hummingbirds/",
+        "imageId": "1328-pink-butterfly-bush-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\1328-pink-butterfly-bush-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1417,7 +1769,9 @@
     "flowers": [
       {
         "name": "Grape Hyacinth",
-        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/"
+        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/",
+        "imageId": "1661-purple-grape-hyacinth-sq-72x72",
+        "imagePath": "outputs\\images\\1661-purple-grape-hyacinth-sq-72x72.jpg"
       }
     ]
   },
@@ -1427,15 +1781,21 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1445,7 +1805,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1455,11 +1817,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1469,19 +1835,27 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -1491,7 +1865,9 @@
     "flowers": [
       {
         "name": "Invasive Plants, Trees & Flowers",
-        "url": "https://wildfloweryard.com/journal/invasive-plants-trees-flowers/"
+        "url": "https://wildfloweryard.com/journal/invasive-plants-trees-flowers/",
+        "imageId": "4320-pink-mexican-evening-primrose-invasive-sq-72x72",
+        "imagePath": "outputs\\images\\4320-pink-mexican-evening-primrose-invasive-sq-72x72.jpg"
       }
     ]
   },
@@ -1501,15 +1877,21 @@
     "flowers": [
       {
         "name": "Dividing Bearded Irises",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/dividing-bearded-irises/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/dividing-bearded-irises/",
+        "imageId": "8285-red-pink-iris-sq-72x72",
+        "imagePath": "outputs\\images\\8285-red-pink-iris-sq-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1519,11 +1901,15 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       }
     ]
   },
@@ -1533,7 +1919,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -1543,7 +1931,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1553,7 +1943,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1563,7 +1955,9 @@
     "flowers": [
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -1573,7 +1967,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1583,11 +1979,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1597,7 +1997,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1607,7 +2009,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1617,11 +2021,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1631,7 +2039,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1641,7 +2051,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1651,11 +2063,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -1665,7 +2081,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1675,11 +2093,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -1689,7 +2111,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1699,11 +2123,15 @@
     "flowers": [
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1713,7 +2141,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1723,7 +2153,9 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -1733,7 +2165,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1743,7 +2177,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1753,7 +2189,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1763,7 +2201,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1773,7 +2213,9 @@
     "flowers": [
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -1783,7 +2225,9 @@
     "flowers": [
       {
         "name": "Invasive Plants, Trees & Flowers",
-        "url": "https://wildfloweryard.com/journal/invasive-plants-trees-flowers/"
+        "url": "https://wildfloweryard.com/journal/invasive-plants-trees-flowers/",
+        "imageId": "4320-pink-mexican-evening-primrose-invasive-sq-72x72",
+        "imagePath": "outputs\\images\\4320-pink-mexican-evening-primrose-invasive-sq-72x72.jpg"
       }
     ]
   },
@@ -1793,7 +2237,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1803,11 +2249,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1817,7 +2267,9 @@
     "flowers": [
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -1827,11 +2279,15 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -1841,7 +2297,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1851,7 +2309,9 @@
     "flowers": [
       {
         "name": "Grape Hyacinth",
-        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/"
+        "url": "https://wildfloweryard.com/plant-profile/grape-hyacinth/",
+        "imageId": "1661-purple-grape-hyacinth-sq-72x72",
+        "imagePath": "outputs\\images\\1661-purple-grape-hyacinth-sq-72x72.jpg"
       }
     ]
   },
@@ -1861,7 +2321,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1871,7 +2333,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -1881,11 +2345,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -1895,7 +2363,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1905,7 +2375,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1915,7 +2387,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1925,7 +2399,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -1935,7 +2411,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -1945,11 +2423,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -1959,7 +2441,9 @@
     "flowers": [
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -1969,7 +2453,9 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -1979,11 +2465,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -1993,11 +2483,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2007,7 +2501,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -2017,7 +2513,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2027,7 +2525,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2037,7 +2537,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2047,7 +2549,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2057,7 +2561,9 @@
     "flowers": [
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -2067,11 +2573,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -2081,11 +2591,15 @@
     "flowers": [
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -2095,19 +2609,27 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       },
       {
         "name": "Spring Blooming Bulb Lasagna",
-        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/"
+        "url": "https://wildfloweryard.com/journal/spring-blooming-bulb-lasagna/",
+        "imageId": "9198-bulb-lasagna-container-72x72",
+        "imagePath": "outputs\\images\\9198-bulb-lasagna-container-72x72.jpg"
       },
       {
         "name": "Paperwhites",
-        "url": "https://wildfloweryard.com/plant-profile/paperwhites/"
+        "url": "https://wildfloweryard.com/plant-profile/paperwhites/",
+        "imageId": "4096-green-paperwhite-containers-sq-72x72",
+        "imagePath": "outputs\\images\\4096-green-paperwhite-containers-sq-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -2117,7 +2639,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2127,7 +2651,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2137,7 +2663,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2147,7 +2675,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -2157,7 +2687,9 @@
     "flowers": [
       {
         "name": "Saving Your Plants from Snails and Slugs",
-        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/"
+        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/",
+        "imageId": "0948-purple-delphinium-sq-72x72",
+        "imagePath": "outputs\\images\\0948-purple-delphinium-sq-72x72.jpg"
       }
     ]
   },
@@ -2167,7 +2699,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2177,7 +2711,9 @@
     "flowers": [
       {
         "name": "California Fall 2018 Plant Sales",
-        "url": "https://wildfloweryard.com/events/california-fall-2018-plant-sales/"
+        "url": "https://wildfloweryard.com/events/california-fall-2018-plant-sales/",
+        "imageId": "8780-pink-white-milkweed-72x72",
+        "imagePath": "outputs\\images\\8780-pink-white-milkweed-72x72.jpg"
       }
     ]
   },
@@ -2187,7 +2723,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2197,7 +2735,9 @@
     "flowers": [
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -2207,7 +2747,9 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -2217,7 +2759,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2227,7 +2771,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2237,7 +2783,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2247,11 +2795,15 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -2261,7 +2813,9 @@
     "flowers": [
       {
         "name": "Improving Soil Drainage with a Garden Elevation",
-        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/"
+        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/",
+        "imageId": "0553-giant-squill-wine-bottles-sq-72x72",
+        "imagePath": "outputs\\images\\0553-giant-squill-wine-bottles-sq-72x72.jpg"
       }
     ]
   },
@@ -2271,7 +2825,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -2281,7 +2837,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2291,7 +2849,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2301,7 +2861,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2311,15 +2873,21 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Rudbeckia",
-        "url": "https://wildfloweryard.com/plant-profile/rudbeckia/"
+        "url": "https://wildfloweryard.com/plant-profile/rudbeckia/",
+        "imageId": "0021-brown-rudbeckia-sq-72x72",
+        "imagePath": "outputs\\images\\0021-brown-rudbeckia-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -2329,7 +2897,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2339,7 +2909,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2349,7 +2921,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2359,11 +2933,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2373,11 +2951,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2387,7 +2969,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2397,7 +2981,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2407,7 +2993,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2417,7 +3005,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2427,11 +3017,15 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -2441,11 +3035,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2455,7 +3053,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2465,7 +3065,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2475,7 +3077,9 @@
     "flowers": [
       {
         "name": "Sheet Mulching",
-        "url": "https://wildfloweryard.com/journal/multiple/sheet-mulching/"
+        "url": "https://wildfloweryard.com/journal/multiple/sheet-mulching/",
+        "imageId": "0262-pink-cosmos-multi-sq-72x72",
+        "imagePath": "outputs\\images\\0262-pink-cosmos-multi-sq-72x72.jpg"
       }
     ]
   },
@@ -2485,7 +3089,9 @@
     "flowers": [
       {
         "name": "Poppy Family – Papaveraceae",
-        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/"
+        "url": "https://wildfloweryard.com/plant-profile/poppy-family-papaveraceae/",
+        "imageId": "2220-red-iceland-poppy-sq-72x72",
+        "imagePath": "outputs\\images\\2220-red-iceland-poppy-sq-72x72.jpg"
       }
     ]
   },
@@ -2495,7 +3101,9 @@
     "flowers": [
       {
         "name": "Saving Your Plants from Snails and Slugs",
-        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/"
+        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/",
+        "imageId": "0948-purple-delphinium-sq-72x72",
+        "imagePath": "outputs\\images\\0948-purple-delphinium-sq-72x72.jpg"
       }
     ]
   },
@@ -2505,7 +3113,9 @@
     "flowers": [
       {
         "name": "Saving Your Plants from Snails and Slugs",
-        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/"
+        "url": "https://wildfloweryard.com/journal/saving-your-plants-from-snails-and-slugs/",
+        "imageId": "0948-purple-delphinium-sq-72x72",
+        "imagePath": "outputs\\images\\0948-purple-delphinium-sq-72x72.jpg"
       }
     ]
   },
@@ -2515,7 +3125,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2525,19 +3137,27 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       },
       {
         "name": "Transplanting During Hot Weather",
-        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/"
+        "url": "https://wildfloweryard.com/journal/transplanting-hot-weather/",
+        "imageId": "1321-purple-pansy-sq-72x72",
+        "imagePath": "outputs\\images\\1321-purple-pansy-sq-72x72.jpg"
       }
     ]
   },
@@ -2547,7 +3167,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2557,7 +3179,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -2567,11 +3191,15 @@
     "flowers": [
       {
         "name": "Improving Soil Drainage with a Garden Elevation",
-        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/"
+        "url": "https://wildfloweryard.com/journal/improving-soil-drainage-garden-elevation/",
+        "imageId": "0553-giant-squill-wine-bottles-sq-72x72",
+        "imagePath": "outputs\\images\\0553-giant-squill-wine-bottles-sq-72x72.jpg"
       },
       {
         "name": "Test for Soil Drainage",
-        "url": "https://wildfloweryard.com/journal/test-soil-drainage/"
+        "url": "https://wildfloweryard.com/journal/test-soil-drainage/",
+        "imageId": "1537-blue-ceanothus-sq-72x72",
+        "imagePath": "outputs\\images\\1537-blue-ceanothus-sq-72x72.jpg"
       }
     ]
   },
@@ -2581,7 +3209,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2591,7 +3221,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2601,11 +3233,15 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -2615,19 +3251,27 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   },
@@ -2637,7 +3281,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2647,7 +3293,9 @@
     "flowers": [
       {
         "name": "Sweet Peas",
-        "url": "https://wildfloweryard.com/plant-profile/sweet-peas/"
+        "url": "https://wildfloweryard.com/plant-profile/sweet-peas/",
+        "imageId": "5922-pink-sweet-pea-rain-sq-72x72",
+        "imagePath": "outputs\\images\\5922-pink-sweet-pea-rain-sq-72x72.jpg"
       }
     ]
   },
@@ -2657,7 +3305,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2667,15 +3317,21 @@
     "flowers": [
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       },
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -2685,7 +3341,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2695,7 +3353,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2705,7 +3365,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2715,7 +3377,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2725,7 +3389,9 @@
     "flowers": [
       {
         "name": "Planting Bulbs, Corms & Rhizomes in the Fall",
-        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/"
+        "url": "https://wildfloweryard.com/journal/multiple/planting-bulbs-corms-rhizomes-fall/",
+        "imageId": "1655-purple-crocus-sq-72x72",
+        "imagePath": "outputs\\images\\1655-purple-crocus-sq-72x72.jpg"
       }
     ]
   },
@@ -2735,7 +3401,9 @@
     "flowers": [
       {
         "name": "USDA Plant Hardiness Zones vs. Climate Zones",
-        "url": "https://wildfloweryard.com/journal/usda-plant-hardiness-zones-vs-climate-zones/"
+        "url": "https://wildfloweryard.com/journal/usda-plant-hardiness-zones-vs-climate-zones/",
+        "imageId": "1693-purple-jacaranda-sq-72x72",
+        "imagePath": "outputs\\images\\1693-purple-jacaranda-sq-72x72.jpg"
       }
     ]
   },
@@ -2745,7 +3413,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2755,11 +3425,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2769,7 +3443,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2779,7 +3455,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2789,11 +3467,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2803,7 +3485,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2813,7 +3497,9 @@
     "flowers": [
       {
         "name": "Planting & Sowing Chilly Weather Flowers",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/planting-sowing-chilly-weather-flowers/",
+        "imageId": "3025-orange-iceland-poppy-cat-tiger-sq-72x72",
+        "imagePath": "outputs\\images\\3025-orange-iceland-poppy-cat-tiger-sq-72x72.jpg"
       }
     ]
   },
@@ -2823,7 +3509,9 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2833,7 +3521,9 @@
     "flowers": [
       {
         "name": "Grow Your Own Wildflower Yard",
-        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/"
+        "url": "https://wildfloweryard.com/journal/grow-your-own-wildflower-yard/",
+        "imageId": "7512-baby-blue-eyes-sq-72x72",
+        "imagePath": "outputs\\images\\7512-baby-blue-eyes-sq-72x72.jpg"
       }
     ]
   },
@@ -2843,7 +3533,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2853,7 +3545,9 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       }
     ]
   },
@@ -2863,11 +3557,15 @@
     "flowers": [
       {
         "name": "The Purple Garden",
-        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/"
+        "url": "https://wildfloweryard.com/planting-sowing/the-purple-garden/",
+        "imageId": "8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72",
+        "imagePath": "outputs\\images\\8236-purple-liatris-rudbeckia-coreopsis-bachelor-button-sq-1-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       }
     ]
   },
@@ -2877,7 +3575,9 @@
     "flowers": [
       {
         "name": "Growing Bulbs, Rhizomes  & Corms in Containers",
-        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/"
+        "url": "https://wildfloweryard.com/planting-sowing/growing-bulbs-rhizomes-corms-in-containers/",
+        "imageId": "6149-yellow-white-daffodil-sq-72x72",
+        "imagePath": "outputs\\images\\6149-yellow-white-daffodil-sq-72x72.jpg"
       }
     ]
   },
@@ -2887,7 +3587,9 @@
     "flowers": [
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -2897,15 +3599,21 @@
     "flowers": [
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Identifying Wildflower Seedlings",
-        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/"
+        "url": "https://wildfloweryard.com/journal/identifying-wildflower-seedlings/",
+        "imageId": "1324-purple-lupine-sq-72x72",
+        "imagePath": "outputs\\images\\1324-purple-lupine-sq-72x72.jpg"
       },
       {
         "name": "Winter Garden Blossoms",
-        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/"
+        "url": "https://wildfloweryard.com/journal/winter-garden-blossoms/",
+        "imageId": "0410-red-scarlet-bugler-sq-72x72",
+        "imagePath": "outputs\\images\\0410-red-scarlet-bugler-sq-72x72.jpg"
       }
     ]
   },
@@ -2915,7 +3623,9 @@
     "flowers": [
       {
         "name": "California Native Wildflowers",
-        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/"
+        "url": "https://wildfloweryard.com/journal/california-native-wildflowers/",
+        "imageId": "2376-purple-white-birds-eye-gilia-sq-72x72",
+        "imagePath": "outputs\\images\\2376-purple-white-birds-eye-gilia-sq-72x72.jpg"
       }
     ]
   },
@@ -2925,15 +3635,21 @@
     "flowers": [
       {
         "name": "Sowing Zinnias",
-        "url": "https://wildfloweryard.com/garden-tips-improvement/sowing-zinnias/"
+        "url": "https://wildfloweryard.com/garden-tips-improvement/sowing-zinnias/",
+        "imageId": "0490-multi-zinnia-larkspur-72x72",
+        "imagePath": "outputs\\images\\0490-multi-zinnia-larkspur-72x72.jpg"
       },
       {
         "name": "Hot & Dry Cottage Garden",
-        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/"
+        "url": "https://wildfloweryard.com/journal/hot-dry-cottage-garden/",
+        "imageId": "4263-white-blue-purple-osteospermum-sq-72x72",
+        "imagePath": "outputs\\images\\4263-white-blue-purple-osteospermum-sq-72x72.jpg"
       },
       {
         "name": "Butterfly Garden",
-        "url": "https://wildfloweryard.com/journal/butterfly-garden/"
+        "url": "https://wildfloweryard.com/journal/butterfly-garden/",
+        "imageId": "0128-pink-echinacea-moth-butterfly-sq-72x72",
+        "imagePath": "outputs\\images\\0128-pink-echinacea-moth-butterfly-sq-72x72.jpg"
       }
     ]
   }

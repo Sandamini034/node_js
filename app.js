@@ -41,15 +41,14 @@ for (const plant of plants) {
 
     if (flowers.length > 0) {
       plantDetails.push({ ...plant, flowers });
-
-      fs.writeFileSync(
-        "outputs/plants.json",
-        JSON.stringify(plantDetails, null, 2)
-      );
     }
   } catch (error) {
     console.error(error.message);
   }
 
   await sleep(1500);
+  fs.writeFileSync(
+    "outputs/plants.json",
+    JSON.stringify(plantDetails, null, 2)
+  );
 }
